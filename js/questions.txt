@@ -1,0 +1,47 @@
+MCQS
+
+//Question No #1
+
+What does HTML stand for?
+Hyperlinks and Text Markup Language
+Hyper Text Markup Language
+Hyper Text Making Language
+Hyper Text Mark Language
+1
+   
+//Question No #2
+   
+What does CSS stand for?
+Colorful StyleSheet
+Creative Style Sheet
+Cascading Style Sheet
+Computer Style Sheet
+2
+
+//Question No #3
+    
+Which HTML tag is used to define an internal style sheet?
+<script>
+<style>
+<html>
+<svg>
+1
+    
+//Question No #4
+    
+Which is the correct CSS syntax?
+body{color:black}
+{body{color:black}
+body={color:black}
+body:color{black}
+0
+
+//Question No #5
+
+How do you insert a comment in a CSS file?
+/*This is Comment*/
+//This Is Comment
+<!--- This Is Comment --->
+//This Is Comment//
+1
+      

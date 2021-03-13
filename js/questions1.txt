@@ -1,0 +1,47 @@
+MCQS
+
+//Question No #1
+
+Which of the following browser support HTML5 in its latest version?
+Mozilla Firefox
+Opera
+Both of the above
+None of the above
+3
+   
+//Question No #2
+   
+Which of the following tag can be used to mark up a conversation in HTML5?
+Footer
+nav
+dialog
+figure
+3
+
+//Question No #3
+    
+Which HTML tag is used to define an internal style sheet?
+<script>
+<style>
+<html>
+<svg>
+1
+    
+//Question No #4
+    
+Which isthe following attribute is used to group itams?
+item
+itemprop
+itemcheck
+itemgroup
+2
+
+//Question No #5
+
+How do you insert a comment in a CSS file?
+/*This is Comment*/
+//This Is Comment
+<!--- This Is Comment --->
+//This Is Comment//
+1
+      

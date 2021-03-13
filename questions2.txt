@@ -1,0 +1,48 @@
+MCQS
+
+//Question No #1
+
+Which type of JavaScript language is ___
+Object-Oriented
+Object-Based
+Assembly-language
+High-level
+2
+   
+//Question No #2
+   
+Which one of the following also known as Conditional Expression:
+Alternative to if-else
+Switch statement
+If-then-else statement
+immediate if
+4
+
+//Question No #3
+    
+In JavaScript, what is a block of statement?
+Conditional block
+block that combines a number of statements into a single compound statement
+both conditional block and a single statement
+block that contains a single statement1
+  2  
+
+//Question No #4
+    
+6) When interpreter encounters an empty statements, what it will do:
+
+Shows a warning
+Prompts to complete the statement
+Throws an error
+Ignores the statements
+4
+
+//Question No #5
+
+How do you insert a comment in a CSS file?
+/*This is Comment*/
+//This Is Comment
+<!--- This Is Comment --->
+//This Is Comment//
+1
+      
